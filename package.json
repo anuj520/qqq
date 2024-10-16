@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "module js",
-    "start": "node server.js",
-    "Module": "node server.js"
+    "start": "bun server.js",
+    "Module": "bun server.js"
   },
   "repository": {
     "type": "git",
